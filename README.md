@@ -1,4 +1,4 @@
-# simple-projects
+# [DEPRICIATED] [ABANDONED] simple-projects
 This repository contains simple projects which are meant for educational purposes. Licensed under The MIT License. 
 MIT License
 
